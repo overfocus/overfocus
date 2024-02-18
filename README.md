@@ -1,5 +1,3 @@
-# Hello, I'm Kevin! 👋
-
 ![Banner Image](https://github.com/K-F-Tech-Consultancy-Digital-Agency/.github/blob/main/kftech_banner_%202048x1152.png)
 
 I write custom software solutions with modern tools.
