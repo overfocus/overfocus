@@ -8,7 +8,11 @@ person approves each one before it goes out.
 
 **→ [Find your kind of business](https://kevinferron.com/concierge)**: tell me about it in a few lines and see what
 an AI Concierge could take off your plate.
-**→ [Every business type](https://kevinferron.com/for)** · **[KFTCDA Elite AI Enablement](https://kevinferron.com/kftcda/ai-enablement)**
+
+
+**→ [Every business type](https://kevinferron.com/for)** ·
+
+**[KFTCDA Elite AI Enablement](https://kevinferron.com/kftcda/ai-enablement)**
 
 Before this I was Director of Engineering at Zynga, CTO at Booyah and a tech lead at Electronic Arts, and I wrote
 embedded C++ and Rust firmware for DC fast chargers. You work directly with the engineer doing the work.
