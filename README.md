@@ -6,8 +6,8 @@ I'm a software developer, and I run **KFTCDA**, offering custom, scalable, only-
 services** to small businesses. Assistants draft the replies, quotes and follow-ups, and a
 person approves each one before it goes out.
 
-**→ [AI Concierge for home-service trades](https://kevinferron.com/for#trades)**: plumbing, HVAC, electricians,
-tree care, landscaping and more.
+**→ [Find your kind of business](https://kevinferron.com/concierge)**: tell me about it in a few lines and see what
+an AI Concierge could take off your plate.
 **→ [Every business type](https://kevinferron.com/for)** · **[KFTCDA Elite AI Enablement](https://kevinferron.com/kftcda/ai-enablement)**
 
 Before this I was Director of Engineering at Zynga, CTO at Booyah and a tech lead at Electronic Arts, and I wrote
